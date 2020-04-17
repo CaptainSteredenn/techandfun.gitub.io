@@ -1,0 +1,121 @@
+body {
+	background-color: #055669;
+	color:#ffcc33;
+}
+
+table, tr, td {
+   border-collapse: collapse;
+   align-content: center;
+}
+
+img {
+	display: block;
+}
+
+td.vague { 
+	background-image:url("images/vague01.jpg");
+	background-position: left;
+	width:152px;
+	vertical-align:top;
+	padding:0px;
+	margin:0px;
+	}
+
+td.menu {
+	background-image:url("images/vague02.jpg");
+	background-position: top right;
+	width:152px;
+	vertical-align:top;
+	font-size: 40px;
+	}
+
+td.content {
+	padding:15px;
+	width: 664px;
+	text-align:center;
+	align-content: center;
+	}
+
+#header {
+	background-position: right;
+	align-items: center;
+	width :100%;
+	padding:0px;
+	margin:0px; } 
+	
+table.header {
+	padding: 0;
+	padding-bottom: 0;
+}
+
+td.header{
+	padding: 0px;
+	margin: 0px;
+	align: center;
+}
+
+tr.header{
+	padding: 0px;
+	margin: 0px;
+	align: center;
+}
+
+a:visited {
+	color: #ffcc33;
+	text-decoration: none;
+	font-weight: bold;	
+	font-size: 25px;
+}
+
+a:link {
+	color: #ffcc33;
+	text-decoration: none;
+	font-weight: bold;
+	target : new;
+	font-size: 17px;
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+h1 {
+	font-style: italic;
+	color: #ffcc33;
+	font-size: 40;
+	text-align: center;
+}
+
+h2 {
+
+	font-style: oblique;
+	color: #ffcc33;
+	font-size: 20px;
+}
+
+
+h3 {
+	color: #ffcc33;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16;
+	text-align: center;
+}
+
+h4 {
+	color: #ffcc33;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: center;
+}
+
+p {
+	font-size: 15px;
+	font-style: normal;
+	color: #ffcc33;
+}
+
+
