@@ -1,0 +1,16 @@
+
+
+<br>
+<table  valign="top" align="center">
+	<tr align="center">
+	<td valign="top" padding="4">
+  		<a href="/linux.php">Linux</a><br>   <br>
+   		<a href="/windsurf.php">Windsurf</a><br>       <br>  
+		<a href="/tourisme/blaye/blaye.php">Tourisme</a><br>   <br> 
+		<a href="/projets.php">Projets</a><br>      <br>
+		<a href="/liens.php">Liens</a><br>
+		<br>
+	</td>
+	</tr>
+</table>
+<br><br><br><br><br><br><br><br>
