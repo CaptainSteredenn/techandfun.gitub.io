@@ -1,0 +1,21 @@
+
+<table cellpadding="2" cellspacing="2" width="100%" align="center"> 
+  <tbody> 
+    <tr> 
+      <td valign="top" width="30%" align="center"> 
+
+ | 
+<a href="pauillac.html">Pauillac</a>
+ | 
+<a href="pont.html">Pont de Pierre</a>
+ | 
+<a href="langon.html">Langon</a>
+ |
+      </td> 
+    </tr> 
+                           
+  </tbody> 
+</table> 
+<br> 
+<br> 
+
